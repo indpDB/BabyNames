@@ -1,5 +1,5 @@
 {
-  "A": [
+  "Ashwini": [
     {
       "A": "aabha",
       "AMeaning": "light"
@@ -2033,7 +2033,7 @@
       "AMeaning": "south Indian deity/ ever youthful"
     }
   ],
-  "B": [
+  "Bharani": [
     {
       "B": "badal",
       "BMeaning": "cloud/ rain"
@@ -2475,7 +2475,7 @@
       "BMeaning": "learned"
     }
   ],
-  "C": [
+  "Krithika": [
     {
       "C": "chaanakya",
       "CMeaning": "a great scholar"
@@ -2553,7 +2553,7 @@
       "CMeaning": "son of chanaka"
     }
   ],
-  "D": [
+  "Rohini": [
     {
       "D": "daamodar",
       "DMeaning": "a name of krishna with waist tied by rope"
@@ -2631,7 +2631,7 @@
       "DMeaning": "tamer"
     }
   ],
-  "E": [
+  "Mrigashirsha": [
     {
       "E": "eashan",
       "EMeaning": "lord vishnu"
@@ -2709,9 +2709,128 @@
       "EMeaning": "focused"
     }
   ],
-  "F": [],
-  "G": [],
-  "H": [
+  "Arudra":  [
+    [
+      {
+        "Ashwini": "aabha"
+      },
+      {
+        "Ashwini": "aabharan"
+      },
+      {
+        "Ashwini": "aabheer"
+      },
+      {
+        "Ashwini": "aachman"
+      },
+      {
+        "Ashwini": "aadarsh"
+      },
+      {
+        "Ashwini": "aadhira"
+      },
+      {
+        "Ashwini": "aadhishankar"
+      },
+      {
+        "Ashwini": "aadhunik"
+      },
+      {
+        "Ashwini": "important"
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      },
+      {
+        "Ashwini": ""
+      }
+    ]
+
+  ],
+  "Punarvasu": [
+    {
+      "Ashwini": "aabha"
+    },
+    {
+      "Ashwini": "aabharan"
+    },
+    {
+      "Ashwini": "aabheer"
+    },
+    {
+      "Ashwini": "aachman"
+    },
+    {
+      "Ashwini": "aadarsh"
+    },
+    {
+      "Ashwini": "aadhira"
+    },
+    {
+      "Ashwini": "aadhishankar"
+    },
+    {
+      "Ashwini": "aadhunik"
+    },
+    {
+      "Ashwini": "important"
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    }
+  ],
+  "Pushyami": [
     {
       "H": "haadiya",
       "HMeaning": "guide to righteousness"
@@ -2789,7 +2908,7 @@
       "HMeaning": "shiva"
     }
   ],
-  "I": [
+  "Ashlesha": [
     {
       "I": "I ibhanan",
       "IMeaning": "elephant faced/ lord ganesh"
@@ -2867,7 +2986,7 @@
       "IMeaning": "king of the earth"
     }
   ],
-  "J": [
+  "Makha": [
     {
       "J": "jadhav",
       "JMeaning": "a yadava jag"
@@ -2945,7 +3064,7 @@
       "JMeaning": "caretaker of the world/god"
     }
   ],
-  "K": [
+  "Purva Phalguni": [
     {
       "K": "kaaliya",
       "KMeaning": "a huge serpent"
@@ -3023,7 +3142,7 @@
       "KMeaning": "lover of art"
     }
   ],
-  "L": [
+  "UttaraPhalguni": [
     {
       "L": "laabh",
       "LMeaning": "profit"
@@ -3101,7 +3220,7 @@
       "LMeaning": "husband of lakshmi"
     }
   ],
-  "M": [
+  "Hasta": [
     {
       "M": "maadhav",
       "MMeaning": "another name of krishna"
@@ -3177,7 +3296,7 @@
       "MMeaning": "the moon"
     }
   ],
-  "N": [
+  "Chitra": [
     {
       "N": "naabhi",
       "NMeaning": "center of body/ an ancient king"
@@ -3253,7 +3372,7 @@
       "NMeaning": "focus/ the best"
     }
   ],
-  "O": [
+  "Swathi": [
     {
       "O": "obalesh",
       "OMeaning": "lord Shiva"
@@ -3329,7 +3448,7 @@
       "OMeaning": "manifestation of divinity"
     }
   ],
-  "P": [
+  "Vishaka": [
     {
       "P": "Pa paandu",
       "PMeaning": "father of the pandavas"
@@ -3405,8 +3524,66 @@
       "PMeaning": "jewel/ lord vishnu"
     }
   ],
-  "Q": [],
-  "R": [
+  "Anuradha": [
+    {
+      "Ashwini": "aabha"
+    },
+    {
+      "Ashwini": "aabharan"
+    },
+    {
+      "Ashwini": "aabheer"
+    },
+    {
+      "Ashwini": "aachman"
+    },
+    {
+      "Ashwini": "aadarsh"
+    },
+    {
+      "Ashwini": "aadhira"
+    },
+    {
+      "Ashwini": "aadhishankar"
+    },
+    {
+      "Ashwini": "aadhunik"
+    },
+    {
+      "Ashwini": "important"
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    },
+    {
+      "Ashwini": ""
+    }
+  ],
+  "Jyeshta": [
     {
       "R": "raahi",
       "RMeaning": "traveller"
@@ -3482,7 +3659,7 @@
       "RMeaning": "lord rama"
     }
   ],
-  "S": [
+  "Moola": [
     {
       "S": "saagar",
       "SMeaning": "ocean"
@@ -3558,7 +3735,7 @@
       "SMeaning": "lord siva"
     }
   ],
-  "T": [
+  "Purvashada": [
     {
       "T": "taarank",
       "TMeaning": "part of a star"
@@ -3634,7 +3811,7 @@
       "TMeaning": "lord vishnu; lord shiva"
     }
   ],
-  "U": [
+  "Utharashada": [
     {
       "U": "ubika",
       "UMeaning": "growth"
@@ -3708,7 +3885,7 @@
       "UMeaning": "rising"
     }
   ],
-  "V": [
+  "Sravana": [
     {
       "V": "Vaachaspati",
       "VMeaning": "lord of speech"
@@ -3780,9 +3957,71 @@
       "VMeaning": "lord of speech"
     }
   ],
-  "W": [],
-  "X": [],
-  "Y": [
+  "Dhanishta": [
+    {
+      "Ashwini": "aabha"
+    },
+    {
+      "Ashwini": "aabharan"
+    },
+    {
+      "Ashwini": "aabheer"
+    },
+    {
+      "Ashwini": "aachman"
+    },
+    {
+      "Ashwini": "aadarsh"
+    },
+    {
+      "Ashwini": "aadhira"
+    },
+    {
+      "Ashwini": "aadhishankar"
+    },
+    {
+      "Ashwini": "aadhunik"
+    },
+    {
+      "Ashwini": "important"
+    }
+
+
+  ],
+  "Shatabhisha": [
+    [
+      {
+        "Ashwini": "aabha"
+      },
+      {
+        "Ashwini": "aabharan"
+      },
+      {
+        "Ashwini": "aabheer"
+      },
+      {
+        "Ashwini": "aachman"
+      },
+      {
+        "Ashwini": "aadarsh"
+      },
+      {
+        "Ashwini": "aadhira"
+      },
+      {
+        "Ashwini": "aadhishankar"
+      },
+      {
+        "Ashwini": "aadhunik"
+      },
+      {
+        "Ashwini": "important"
+      }
+
+    ]
+
+  ],
+  "Purvabhadra": [
     {
       "Y": "yadav",
       "YMeaning": "community related to lord krishna"
@@ -3854,5 +4093,97 @@
       "YMeaning": "ceremonial rites to god"
     }
   ],
-  "Z": []
+  "Uttarabhadra": [
+    {
+      "Ashwini": "aabha"
+    },
+    {
+      "Ashwini": "aabharan"
+    },
+    {
+      "Ashwini": "aabheer"
+    },
+    {
+      "Ashwini": "aachman"
+    },
+    {
+      "Ashwini": "aadarsh"
+    },
+    {
+      "Ashwini": "aadhira"
+    },
+    {
+      "Ashwini": "aadhishankar"
+    },
+    {
+      "Ashwini": "aadhunik"
+    },
+    {
+      "Ashwini": "important"
+    }
+
+  ],
+  "Revathi": [
+      {
+        "Ashwini": "aabha"
+      },
+      {
+        "Ashwini": "aabharan"
+      },
+      {
+        "Ashwini": "aabheer"
+      },
+      {
+        "Ashwini": "aachman"
+      },
+      {
+        "Ashwini": "aadarsh"
+      },
+      {
+        "Ashwini": "aadhira"
+      },
+      {
+        "Ashwini": "aadhishankar"
+      },
+      {
+        "Ashwini": "aadhunik"
+      },
+      {
+        "Ashwini": "important"
+      }
+
+
+    ],
+  "Abhijit": [
+    {
+      "Ashwini": "aabha"
+    },
+    {
+      "Ashwini": "aabharan"
+    },
+    {
+      "Ashwini": "aabheer"
+    },
+    {
+      "Ashwini": "aachman"
+    },
+    {
+      "Ashwini": "aadarsh"
+    },
+    {
+      "Ashwini": "aadhira"
+    },
+    {
+      "Ashwini": "aadhishankar"
+    },
+    {
+      "Ashwini": "aadhunik"
+    },
+    {
+      "Ashwini": "important"
+    }
+
+
+  ]
+
 }
